@@ -1,4 +1,4 @@
-# AI-Driven Calibration of Social-Preference Utility Functions for Rational Agents, via Bilevel Reinforcement Learning
+# AI-Driven Development of Utility-Maximisation Functions for Rational Agents: Balancing Selfishness and Altruism through Reinforcement Learning
 
 Co-author: Daria Godorozha.
 #
